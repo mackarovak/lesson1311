@@ -19,6 +19,8 @@ namespace lesson1311
             afterstr = bCypher.decode(afterstr);
             Console.WriteLine(afterstr);
             Console.WriteLine("Задание 2");
+            Point point = new Point();
+            Console.WriteLine(point.Ploshad());
 
             Console.ReadKey();
         }
