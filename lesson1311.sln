@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lesson1311", "lesson1311\lesson1311.csproj", "{695C760E-A641-4925-8541-3DE981DAE5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homeworkmeth", "homeworkmeth\homeworkmeth.csproj", "{02443D3F-E0C4-4A7E-AC11-87FC198CCDDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{695C760E-A641-4925-8541-3DE981DAE5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695C760E-A641-4925-8541-3DE981DAE5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695C760E-A641-4925-8541-3DE981DAE5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695C760E-A641-4925-8541-3DE981DAE5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02443D3F-E0C4-4A7E-AC11-87FC198CCDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02443D3F-E0C4-4A7E-AC11-87FC198CCDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02443D3F-E0C4-4A7E-AC11-87FC198CCDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02443D3F-E0C4-4A7E-AC11-87FC198CCDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613BCE79-7979-463A-B1EE-14520FCF205D}
+	EndGlobalSection
+EndGlobal
