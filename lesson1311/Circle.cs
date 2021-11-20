@@ -15,7 +15,7 @@ namespace lesson1311
         }
         public override double Ploshad()
         {
-            return 2 * Math.PI * radius;
+            return Math.PI * radius* radius;
         }
     }
 }
