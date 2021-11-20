@@ -10,7 +10,7 @@ namespace homeworkmeth
     {
         public void Testing(string name)
         {
-            Console.WriteLine();
+            Console.WriteLine($"{0} играет в TheSlideGame", name);
         }
     }
 }
