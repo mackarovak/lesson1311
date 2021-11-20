@@ -26,6 +26,7 @@ namespace homeworkmeth
                 country.Testingstart(new TheSeaGame());
                 country.Testingstart(new TheSlideGame());
             }
+            Console.ReadKey();
         }
     }
 }
